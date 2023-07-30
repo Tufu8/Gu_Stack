@@ -1,13 +1,14 @@
-baseURL = "http://example.org/"
+baseURL = "http://gu_stack.github.io"
 languageCode = "zh-CN"
-title = "WebStack网址导航 Hugo主题"
+title = "Gu_WebStack Created by Hugo"
 theme = "webstack-hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
 copyright = ""
+
 [params]
-  author = "iplaycode"
+  author = "Gugu"
   description = "Webstack Hugo"
 [params.search]
   enable = true
