@@ -1,4 +1,4 @@
-baseURL = "http://tufu8.github.io/gu_stack/"
+baseURL = "https://tufu8.github.io/Gu_Stack/"
 languageCode = "zh-CN"
 title = "Gu_WebStack Created by Hugo"
 theme = "webstack-hugo"
